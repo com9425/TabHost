@@ -1,0 +1,2 @@
+include ':app', ':ex6-3', ':petchoise', ':awef', ':actionbartab', ':actionbartab2', ':viewpagertab'
+rootProject.name='TabHost'
